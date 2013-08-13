@@ -1,0 +1,12 @@
+[Desktop Action SentTo]
+Exec=/usr/bin/sendto %U
+Icon=drive-removable-media-usb
+Name=Send to External Drive
+
+[Desktop Entry]
+Actions=SentTo
+Icon=drive-removable-media-usb
+ServiceTypes=KonqPopupMenu/Plugin,application/octet-stream,inode/directory
+Type=Service
+X-KDE-Priority=TopLevel
+X-KDE-StartupNotify=false

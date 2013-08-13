@@ -1,0 +1,18 @@
+#!/bin/bash
+
+# Author: Muhammad Minhazul Haque <contact@minhazulhaque.com>
+# Version 0.1
+
+# WARNING Does not work with space in disk label
+target=$(mount | grep 'sdb1' | cut -d' ' -f3)
+
+if ["$target" == ""]
+then
+	kdialog --error 'No external disk detected'
+else
+
+	for var in "$@"
+	do
+		kioclient copy "$var" "$target"
+	done
+fi
