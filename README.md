@@ -9,6 +9,10 @@ Requirments:
 * kdialog
 * kio_client
 
+Preview:
+--------
+[Dolphin Sendto Servicemenu](http://i.imgur.com/H4nMCVP.png)
+
 Install:
 --------
 ./install.sh
