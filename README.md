@@ -1,5 +1,5 @@
-Dolphin Sendto Servicemenu
-==========================
+Dolphin Sendto Service Menu
+===========================
 Send files and directories to external disk from Dolphin context menu.
 
 Requirements:
