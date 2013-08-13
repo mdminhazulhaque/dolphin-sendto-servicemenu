@@ -15,11 +15,11 @@ Preview:
 
 Install:
 --------
-./install.sh
+`./install.sh`
 
 Uninstall:
 ----------
-./uninstall.sh
+`./uninstall.sh`
 
 Issues:
 -------
