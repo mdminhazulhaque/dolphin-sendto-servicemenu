@@ -2,8 +2,8 @@ Dolphin Sendto Servicemenu
 ==========================
 Send files and directories to external disk from Dolphin context menu.
 
-Requirments:
-------------
+Requirements:
+-------------
 * kde4
 * doplhin
 * kdialog
@@ -24,7 +24,7 @@ Uninstall:
 Issues:
 -------
 * Does not work when disk label has a space
-* Spearate kio_client action
+* Separate kio_client action
 * Only works with first inserted external disk
 
 TODO:
