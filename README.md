@@ -11,7 +11,7 @@ Requirments:
 
 Preview:
 --------
-[Dolphin Sendto Servicemenu](http://i.imgur.com/H4nMCVP.png)
+![Dolphin Sendto Servicemenu](http://i.imgur.com/H4nMCVP.png)
 
 Install:
 --------
